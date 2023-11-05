@@ -1,5 +1,5 @@
 # Интернет-магазин «Стримчик»
-[ipynb](https://github.com/ksyuuush/Portfolio-/blob/main/Project4/project4.ipynb)
+[ipynb](https://github.com/ksyuuush/Portfolio-/blob/main/Project4/Project4.ipynb)
 
 ## Описание проекта
 1. Выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
