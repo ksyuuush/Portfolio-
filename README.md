@@ -9,3 +9,6 @@
 |5	|[Приложения Procrastinate Pro+](https://github.com/ksyuuush/Portfolio-/tree/main/Project5)|Разобраться в причинах убытков и помочь компании выйти в плюс.|python, pandas, matplotlib, numpy, datetime|
 |6	|[Аналитика интернет-магазина](https://github.com/ksyuuush/Portfolio-/tree/main/Project6)|Проверка гипотез для увеличения выручки интернет-магазина.|python, pandas, matplotlib, numpy, datetime, scipy|
 |7	|[Стартап продукты питания](https://github.com/ksyuuush/Portfolio-/tree/main/Project7)|Анализ пользователей стартапа по продаже продуктов питания.|python, pandas, matplotlib, numpy, datetime, scipy, math|
+|8	|[Фонд «Shut Up and Take My Money»](https://github.com/ksyuuush/Portfolio-/tree/main/Project8)|Анализ заведений общественного питания в Москве.|python, pandas, matplotlib, numpy, datetime, scipy, plotly, json, folium|
+|9	|[Яндекс Дзен»](https://github.com/ksyuuush/Portfolio-/tree/main/Project9)|Визуализация действий пользователей Яндекс Дзена.|python, tableau|
+|10	|[Банк «Метанпром»](https://github.com/ksyuuush/Portfolio-/tree/main/Project10)|Анализ оттока клиентов в банке «Метанпром».|python, pandas, matplotlib, numpy, datetime, scipy, plotly, warnings|
