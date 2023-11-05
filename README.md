@@ -4,4 +4,5 @@
 |:--|:----------------------------------------------------:|:-------------------------------------------------------------:|------------------------------------:|
 |1	|[Яндекс Музыка](https://github.com/ksyuuush/Portfolio-/tree/main/Project1)|Сравнение поведения пользователей двух столиц. Проверка трех гипотез|python, pandas|  
 |2	|[Яндекс Недвижимость](https://github.com/ksyuuush/Portfolio-/tree/main/Project2)|Определить рыночную стоимость объектов недвижимости. Исследовательский анализ|python, pandas, matplotlib|
-|2	|[Мегалайн](https://github.com/ksyuuush/Portfolio-/tree/main/Project3)|Анализ пользователей оператора Мегалайн. Статистический анализ данных.|python, pandas, matplotlib, seaborn, scipy|
+|3	|[Мегалайн](https://github.com/ksyuuush/Portfolio-/tree/main/Project3)|Анализ пользователей оператора Мегалайн. Статистический анализ данных.|python, pandas, matplotlib, seaborn, scipy|
+|4	|[Интернет-магазин «Стримчик»](https://github.com/ksyuuush/Portfolio-/tree/main/Project4)|Составление портрета пользователя каждого региона. Определение факторов влияющих на продажи игр.|python, pandas, matplotlib, scipy|
