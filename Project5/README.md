@@ -1,4 +1,4 @@
-# Интернет-магазин «Стримчик»
+# Приложения Procrastinate Pro+
 [ipynb](https://github.com/ksyuuush/Portfolio-/blob/main/Project5/project5.ipynb)
 
 ## Описание проекта
